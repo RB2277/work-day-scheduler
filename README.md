@@ -9,7 +9,7 @@ You are able to type in each of the time blocks and save it using the blue save 
 
 https://rb2277.github.io/work-day-scheduler/
 
-![Example Image of the site](Assets/images/exampleImage.png)
+![Example Image of the site](assets/images/exampleImage.png)
 
 ## Credits
 
